@@ -1,0 +1,38 @@
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+masters.core: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the MastersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+users.User: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the UsersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 2 issues (0 silenced).
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+masters.core: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the MastersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+users.User: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the UsersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 2 issues (0 silenced).
+Performing system checks...
+
+October 31, 2021 - 19:34:44
+Django version 3.2.8, using settings 'gungun_core.settings'
+Starting development server at http://92.205.25.183:8888/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+masters.core: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the MastersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+users.User: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the UsersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 2 issues (0 silenced).
+Not Found: /
+[31/Oct/2021 19:34:54] "GET / HTTP/1.1" 404 2172
